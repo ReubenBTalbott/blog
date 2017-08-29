@@ -1,1 +1,1 @@
-# blog
+# http://ReubenBTalbott.github.io/blog
