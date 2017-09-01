@@ -2,7 +2,7 @@
 layout: post
 title:  "What has happened so far in our trip to OR"
 date:   2017-08-31 21:40:00 -0700
-categories: OR trip
+categories: ORtrip
 ---
 
 So let me summarize what has happened so far on our road trip to Oregon.
