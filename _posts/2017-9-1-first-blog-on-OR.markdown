@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What has happened so far in our trip to Or."
+title:  "What has happened so far in our trip to Oregon."
 date:   2017-08-31 21:40:00 -0700
 categories: ORtrip
 ---
